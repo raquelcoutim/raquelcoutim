@@ -2,7 +2,10 @@
 Eu sou Raquel Coutim, estudante de um curso técnico informática em algum if do Brasil.
 Tenho experiência com desenvolvimento web (front-end com HTML e CSS, javascript), React Native, Lua, e desenvolvo alguns jogos na Godot no tempo livre.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=Hello+World!;Meu+nome+é+Raquel+;Eu+programo+no+tempo+livre;Confere+meus+projetos+aqui+!)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=Hello+World!;Meu+nome+é+Raquel+;Eu+programo+no+tempo+livre;Confira+meus+projetos+aqui+!)](https://git.io/typing-svg)
+</div>
+
 
 
 <!--
