@@ -3,7 +3,7 @@ Eu sou Raquel Coutim, estudante de um curso técnico informática em algum if do
 Tenho experiência com desenvolvimento web (front-end com HTML e CSS, javascript), React Native, Lua, e desenvolvo alguns jogos na Godot no tempo livre.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=Hello+World!;Meu+nome+é+Raquel+;Eu+programo+no+tempo+livre;Confira+meus+projetos+aqui+!)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adrianof1&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelcoutim&show_icons=true&rank_icon=github&theme=dracula)
 
 
 
