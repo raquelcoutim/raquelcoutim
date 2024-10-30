@@ -1,5 +1,6 @@
 ## ERROR 404!
-Eu sou Raquel Coutim, estudante de um curso técnico informática em algum if do Brasil. 
+Eu sou Raquel Coutim, estudante de um curso técnico informática em algum if do Brasil.
+Tenho experiência com desenvolvimento web (front-end com HTML e CSS, javascript), React Native, Lua, e desenvolvo alguns jogos na Godot no tempo livre.
 
 
 <!--
