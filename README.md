@@ -15,7 +15,7 @@ como competições de programação, principalmente para aprimorar minhas habili
 <br></br>
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelcoutim&show_icons=true&rank_icon=github&theme=dracula)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorMiguel-Line&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 
 
