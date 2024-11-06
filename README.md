@@ -5,6 +5,7 @@ Eu sou Raquel Coutim, estudante de um curso técnico informática em algum if do
 Tenho experiência com desenvolvimento web (front-end com HTML e CSS, javascript), React Native, Lua,
 e desenvolvo alguns jogos na Godot no tempo livre.
 </i>
+
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelcoutim&show_icons=true&rank_icon=github&theme=dracula)
 
 
