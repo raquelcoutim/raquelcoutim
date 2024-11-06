@@ -1,6 +1,6 @@
 ## ERROR 404!
 
-<img src="(https://i.pinimg.com/736x/95/17/3c/95173c7f585f8228fa8a3d0dfb287856.jpg)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/736x/95/17/3c/95173c7f585f8228fa8a3d0dfb287856.jpg" alt="gatito" min-width="400px" max-width="400px" width="400px" align="right">
 
 <i text-align="justify">
 Eu sou Raquel Coutim, estudante de um curso técnico informática em algum if do Brasil.
